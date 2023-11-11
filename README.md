@@ -1,0 +1,1 @@
+# script_for_processing_climate_data_in_bash
